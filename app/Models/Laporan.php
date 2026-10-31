@@ -12,6 +12,6 @@ class Laporan extends Model
         'nama_pelapor',
         'lokasi',
         'tinggi_genangan',
-        'tanggal_kejadian'
+        'tanggal_kejadian',
     ];
 }
